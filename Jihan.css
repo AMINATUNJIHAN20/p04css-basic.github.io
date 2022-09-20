@@ -1,0 +1,14 @@
+
+.judul{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: darkblue;
+}
+
+.box {
+    border-radius: 5px;
+    background-color: burlywood ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
